@@ -4,7 +4,6 @@
 
 自从OpenAI发布了Sora后，其出色的画面效果和高真实度的视频功能立刻引起了广泛关注。Sora能够生成60秒的超长视频，在视觉质量上远超当前市场上的其他视频生成模型。
 
-**体验Sora的地址：[点击这里](https://openai.com/research/video-generation-models-as-world-simulators)**
 
 ![image](https://github.com/user-attachments/assets/4d6c82d0-598f-444c-9703-65357967061e)
 

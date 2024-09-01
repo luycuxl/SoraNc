@@ -11,7 +11,8 @@ Sora的发布，类似于ChatGPT，对多个行业带来了革命性的改变。
 
 目前，OpenAI仅向少数艺术家、设计师和电影制作人开放了Sora的使用权限。对于大部分用户来说，获取这一资格还是相对困难的。
 
-根据OpenAI的惯例，Sora未来可能会成为ChatGPT Plus用户的专属功能。如果你还没有升级到Plus账户，可以使用 [WildCard | 一分钟注册，轻松订阅海外软件服务](https://bit.ly/WildCardo) 快速完成升级。
+根据OpenAI的惯例，Sora未来可能会成为ChatGPT Plus用户的专属功能。
+如果你还没有升级到Plus账户，可以使用 [WildCard | 一分钟注册，轻松订阅海外软件服务](https://bit.ly/WildCardo) 快速完成升级。
 
 
 ## 如何申请Sora内测资格
